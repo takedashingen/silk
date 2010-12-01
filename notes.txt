@@ -1,0 +1,8 @@
+embeddable
+built-in textparser, support for objectdb style storage
+access control
+data validation (external datatype support?)
+
+
+stretch:
+built in regex?
